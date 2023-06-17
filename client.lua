@@ -1,5 +1,3 @@
-local circleActive = false
-
 CreateThread(function()
 	while true do
 		local playerPed = PlayerPedId()
